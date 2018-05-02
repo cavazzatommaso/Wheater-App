@@ -1,2 +1,2 @@
 # Wheater-App
-[![Wheater-App](https://imgur.com/a/EUp43P8)]
+![Wheater-App](https://github.com/cavazzatommaso/Wheater-App/Immagine.png)
