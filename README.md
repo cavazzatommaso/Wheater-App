@@ -1,7 +1,7 @@
 # Wheater-App
 ![Wheater-App](https://github.com/cavazzatommaso/Wheater-App/blob/master/Immagine.png)
 
-This is a simple project made for an raspberry pi3 connect to an 10.1 display lcd.
+This is a simple project made for raspberry pi3 connect to an 10.1 display lcd.
 
 You can change the Wheather Information in the index.php.
 
